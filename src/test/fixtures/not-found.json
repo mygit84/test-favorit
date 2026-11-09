@@ -1,0 +1,14 @@
+{
+  "goods": [
+    {
+      "brand": "",
+      "count": 0,
+      "goodsID": "00000000-0000-0000-0000-000000000000",
+      "name": "",
+      "number": "",
+      "price": 0,
+      "rate": 0,
+      "warehouses": []
+    }
+  ]
+}

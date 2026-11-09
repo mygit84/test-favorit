@@ -1,0 +1,44 @@
+{
+  "goods": [
+    {
+      "brand": "MAHLE",
+      "count": 2004,
+      "goodsID": "C4E68ED9-8140-11DB-BF1F-505054503030",
+      "name": "Фильтр масляный",
+      "number": "OC90",
+      "price": 384,
+      "rate": 1,
+      "warehouses": [
+        {
+          "code": "СПБ РС",
+          "id": "DB1F1AC9-39A8-11F1-AA2E-6CFE543051E4",
+          "own": false,
+          "price": 372.16,
+          "shipmentDate": "2026-11-12T13:30:00+03:00",
+          "stock": 40,
+          "warehouseShipping": "29107E16-1EA5-11F1-AA2A-6CFE543051E5"
+        }
+      ]
+    },
+    {
+      "brand": "AM Point",
+      "count": 71,
+      "goodsID": "D6B3A3B8-EA29-4608-B8AE-99AE06AFAE99",
+      "name": "Фильтр масляный",
+      "number": "OC90",
+      "price": 254.07,
+      "rate": 1,
+      "warehouses": [
+        {
+          "code": "РНД РС",
+          "id": "804F7D23-112B-11EF-A7D5-D7E337AD9FE5",
+          "own": false,
+          "price": 254.07,
+          "shipmentDate": "2026-11-12T10:40:00+03:00",
+          "stock": 1,
+          "warehouseShipping": "1A96D570-D0B7-11EE-A7D0-F0FED951D48A"
+        }
+      ]
+    }
+  ]
+}
